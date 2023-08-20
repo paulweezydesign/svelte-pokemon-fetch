@@ -1,0 +1,33 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	font-family: sans-serif;
+	color: hsl(0 0% 98%);
+	background-color: hsl(220 20% 14%);
+}
+
+input {
+	padding: 1rem;
+	border-radius: 2rem;
+	border: none;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	margin-top: 2rem;
+}
+
+a {
+	font-weight: 700;
+	color: hsl(0 0% 98%);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
